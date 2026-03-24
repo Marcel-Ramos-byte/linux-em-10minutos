@@ -1,4 +1,4 @@
-# Linux em 5 minutos
+# Linux em 10 minutos
 
 Linux é um sistema operacional, como Windows ou macOS.
 
